@@ -8,6 +8,11 @@ namespace workingWIYHgit
 {
     internal class Program
     {
+        static void Func()
+        {
+            Console.WriteLine("New function!");
+        }
+        
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
