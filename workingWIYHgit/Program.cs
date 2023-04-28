@@ -12,6 +12,7 @@ namespace workingWIYHgit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Another one");
+            Console.WriteLine("Enter your name");
         }
     }
 }
