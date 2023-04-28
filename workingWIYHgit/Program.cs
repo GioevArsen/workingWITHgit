@@ -11,6 +11,7 @@ namespace workingWIYHgit
         static void Func()
         {
             Console.WriteLine("New function!");
+            Console.WriteLine("Changes from another computer");
         }
         
         static void Main(string[] args)
